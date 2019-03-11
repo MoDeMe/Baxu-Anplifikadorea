@@ -19,9 +19,9 @@
 ### 5.2 PedalShield
 ## 6. MATXURAK ##
 ### 6.1 Anplifikagailuan
-### 6.1.1 egurrarekin eta xaflarekin lanean
-### 6.1.2 interneteko eskemarekin
-### 6.1.3 zirkuituarekin lanean 
+### 6.1.1 egurrarekin eta xaflarekin
+### 6.1.2 interneteko eskeman
+### 6.1.3 zirkuituan 
 ### 6.2 PedalShield
 ## 7. AURREKONTUA ##
 ## 8. KONKLUSIOAK/ONDORIOAK ##
