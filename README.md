@@ -10,8 +10,9 @@
 ### 3.1.2 xafla eta egurraren eraikuntza
 ### 3.2 PedalShield
 ## 4.FUNTZIONAMENDU MEMORIA ##
-### 4.1 Anplifikagailua
-### 4.2 PedalShield
+### 4.1 Balbulak
+### 4.2 Anplifikagailua
+### 4.3 PedalShield
 ## 5. MARTXAN JARTZEA ETA DOITZEA ##
 ### 5.1 Anplifikagailua
 ### 5.1.1 balbulen konprobaketa
